@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="img_Items" type="id"/>
+    <item name="image_items" type="id"/>
+    <item name="text_items" type="id"/>
+    <item name="image_detail" type="id"/>
+    <item name="title_detail" type="id"/>
+    <item name="desc_detail" type="id"/>
+</resources>
